@@ -13,7 +13,7 @@ The main purpose of this analysis was to help Louise, a playwright, uncover any 
 In this analysis, outcomes of campaigns for the theater category were perused based on their launched date by creating a pivot table of the dataset, filtering 'Parent Category' to theater and 'Years' of each campaign launched.  With a total of 111 successful and 52 failed campaigns out of a total of 166 projects, May is the month in which the most kickstarter campaigns accomplished their goal.  This is closely followed by June with 100 'successful' and 49 'failed' out of 153 projects.  Additionally, May, June, July and 
 October all have approximately the same number of failed projects.  
 
-
+![Theater_Outcomes_vs_Launch](https://github.com/junepwk/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 This analysis shows that May is the prime month to kickstart a theater crowdfunding event, but Louise's plan is specifically for a play. In the next section, there will 
 be a deeper dive to uncover additional factor(s) that might contribute to the success rate of theater play campaigns by comparing their outcomes based on goals.
@@ -25,6 +25,8 @@ By narrowing the focus down to subcategory 'plays', it is evident that the dolla
 and 27% fail out of a total of 534 projects.  The next runnerup ranges are set between '35000 to 39999' and '40000 to 44999' with 67% success and 33% fail for both.  These goals are set quite high and there are only a total of 6 projects and 3 projects, respectively.  Therefore, there might be other factors that played a part in their
 achievements.  This piece of information could be a concern for Louise as her goal is greater than $10,000.  Within her range, '10000 to 14999', there is a 54% success
 and 46% fail rate out of a total of 72 projects.  Although, in the 'plays' subcategory, there appears to be no 'canceled' campaigns, Louise's plan for her Kickstarter crowdfunding event could have a close possibility of either failing or succeeding. 
+
+![Outcomes_vs_Goals](https://github.com/junepwk/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
