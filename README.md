@@ -22,8 +22,7 @@ be a deeper dive to uncover additional factor(s) that might contribute to the su
 
 By narrowing the focus down to subcategory 'plays', it is evident that the dollar amount range for goals with the highest success rate are set between 'less than 1000' and 
 '1000 to 4999'.  In the range, 'less than 1000', there is a 76% success and 24% fail rate out of a total of 186 projects.  In '1000 to 4999', there is a 73% success 
-and 27% fail out of a total of 534 projects.  The next runnerup ranges are set between '35000 to 39999' and '40000 to 44999' with 67% success and 33% fail for both.  
-These goals are set quite high and there are only a total of 6 projects and 3 projects, respectively.  Therefore, there might be other factors that played a part in their
+and 27% fail out of a total of 534 projects.  The next runnerup ranges are set between '35000 to 39999' and '40000 to 44999' with 67% success and 33% fail for both.  These goals are set quite high and there are only a total of 6 projects and 3 projects, respectively.  Therefore, there might be other factors that played a part in their
 achievements.  This piece of information could be a concern for Louise as her goal is greater than $10,000.  Within her range, '10000 to 14999', there is a 54% success
 and 46% fail rate out of a total of 72 projects.  Although, in the 'plays' subcategory, there appears to be no 'canceled' campaigns, Louise's plan for her Kickstarter crowdfunding event could have a close possibility of either failing or succeeding. 
 
