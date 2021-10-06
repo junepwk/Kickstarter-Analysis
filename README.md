@@ -37,22 +37,22 @@ to be challenging.  After trial and error and surveying the example video provid
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+-Conclusions based on Launch Date:
 
 First, May is prime time for Louise to launch her future campaign(s) in the theater category with the month of June being a close second. Secondly, December is a terrible month
 for theater related campaigns as there appears to be a 50/50 chance for success and fail. If Louise was to launch her campaign for her play "Fever", I would highly suggest doing so in the 
 month of May.  
 
-- What can you conclude about the Outcomes based on Goals?
+- Conclusion based on Goals:
 
 Campaigns with goals that are less than or equal to $4,999 have the highest chance of success, which makes sense considering it'll take less money donation to achieve their goal.  In Louise's case, with a budget of over $10,000, based on the Kickstarter dataset, her campaign would have a 54% chance of succeeding and 46% chance of failing. I would suggest a thorough review of her budget itinery to cut out some expenses if she would like a higher chance of her campaign being successful. 
 
-- What are some limitations of this dataset?
+- Limitations of this dataset:
 
 In the first analysis, it was filtered to show 'theater' campaigns' outcomes.  Within this category, there are a total of three subcategories named 'plays', 'musical', and 'spaces'. This means that the data gathered could be too vague to make an accurate conclusion for the client Louise as she is interested in launching a campaign for a play.  Although, it was concluded that May is a great time to launch theater campaigns, it is unclear rather it is still an accurate representation for play projects. 
 
 The second analysis, by filtering the data to 'plays', provided a more indepth and relatable data for Louise.  However, the number of projects with goals above $15,000 are significantly lower than the number of projects with goals less than $15,000. Therefore, the outcome ratio for projects with goals above $15,000 might not have an accurate representation since the sample size is so small.   
 
-- What are some other possible tables and/or graphs that we could create?
+- Other possible tables and/or graphs that could be utilized:
 
 We could create a pivot table that filtered the parent category, years, and the subcategory. For the second analysis, we could consider adding columns for "Average Donation" because the trend seems to follow that the lower the goal is set the higher the success rate.  But you could see that the ranges '35000 to 39999' and '40000 to 44999' both have the third highest success rate.  By including "Average Donation", we could see whether it was due to a high number of donations.  
