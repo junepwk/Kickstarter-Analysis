@@ -37,7 +37,7 @@ to be challenging.  After trial and error and surveying the example video provid
 
 ## Results
 
--Conclusions based on Launch Date:
+- Conclusions based on Launch Date:
 
 First, May is prime time for Louise to launch her future campaign(s) in the theater category with the month of June being a close second. Secondly, December is a terrible month
 for theater related campaigns as there appears to be a 50/50 chance for success and fail. If Louise was to launch her campaign for her play "Fever", I would highly suggest doing so in the 
