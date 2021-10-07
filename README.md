@@ -27,6 +27,8 @@
 
 The main purpose of this analysis was to help Louise, a playwright, uncover any trends and patterns to a successful Kickstarter campaign. Louise estimated that her play expenses would exceed $10,000 and she would like to know what are some factors to consider to ensure that her crowdfunding campaign would meet her goal. The factors that were focused on in this analysis were funding goals set for campaigns, launched dates of the campaigns and their correlation with the overall campaign's outcome (successful, failed, or canceled).
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -56,6 +58,8 @@ into their fields.  However, since I'll be filtering the table for just 'theater
 is where I encountered more difficulties.  Aside from the usual misspelling of words in the formula or misplaced syntax, I found creating the dollar amount ranges in the formula
 to be challenging.  After trial and error and surveying the example video provided, I was able to create the range with the correct syntax.  Lastly, the final table created felt a little clustered with numbers so using conditional formatting in Excel, I did color scaling for the columns "Percentage Successful" and "Percentage Failed" so that it is visually easier to identify any patterns. 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Results
 
 - Conclusions based on Launch Date:
@@ -77,3 +81,5 @@ The second analysis, by filtering the data to 'plays', provided a more indepth a
 - Other possible tables and/or graphs that could be utilized:
 
 We could create a pivot table that filtered the parent category, years, and the subcategory. For the second analysis, we could consider adding columns for "Average Donation" because the trend seems to follow that the lower the goal is set the higher the success rate.  But you could see that the ranges '35000 to 39999' and '40000 to 44999' both have the third highest success rate.  By including "Average Donation", we could see whether it was due to a high number of donations.  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
