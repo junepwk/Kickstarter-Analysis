@@ -41,6 +41,8 @@ October all have approximately the same number of failed projects.
 This analysis shows that May is the prime month to kickstart a theater crowdfunding event, but Louise's plan is specifically for a play. In the next section, there will 
 be a deeper dive to uncover additional factor(s) that might contribute to the success rate of theater play campaigns by comparing their outcomes based on goals.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Analysis of Outcomes Based on Goals
 
 By narrowing the focus down to subcategory 'plays', it is evident that the dollar amount range for goals with the highest success rate are set between 'less than 1000' and 
@@ -50,6 +52,8 @@ achievements.  This piece of information could be a concern for Louise as her go
 and 46% fail rate out of a total of 72 projects.  Although, in the 'plays' subcategory, there appears to be no 'canceled' campaigns, Louise's plan for her Kickstarter crowdfunding event could have a close possibility of either failing or succeeding. 
 
 ![Outcomes_vs_Goals](https://github.com/junepwk/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Challenges and Difficulties Encountered
 
