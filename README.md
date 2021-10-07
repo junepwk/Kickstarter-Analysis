@@ -1,5 +1,26 @@
 # Kickstarting with Excel
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview-of-project">Overview of Project</a>
+      <ul>
+        <li><a href="#purpose">Purpose</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#analysis-and-challenges">Analysis and Challenges</a>
+      <ul>
+        <li><a href="#analysis-of-outcomes-based-on-launch-date">Analysis of Outcomes Based on Launch Date</a></li>
+        <li><a href="#analysis-of-outcomes-based-on-goals">Analysis of Outcomes Based on Goals</a></li>
+        <li><a href="#challenges-and-difficulties-encountered">Challenges and Difficulties Encountered</a></li>
+      </ul>
+    </li>
+    <li><a href="#results">Results</a></li>
+  </ol>
+</details>
+
 ## Overview of Project
 
 ### Purpose
