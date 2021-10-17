@@ -7,6 +7,9 @@
       <a href="#overview">Overview</a>
     </li>
     <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li>
       <a href="#analysis-and-challenges">Analysis and Challenges</a>
       <ul>
         <li><a href="#analysis-of-outcomes-based-on-launch-date">Analysis of Outcomes Based on Launch Date</a></li>
@@ -21,6 +24,13 @@
 ## Overview
 
 The main purpose of this analysis was to help Louise, a playwright, uncover any trends and patterns to a successful Kickstarter campaign. Louise estimated that her play expenses would exceed $10,000 and she would like to know what are some factors to consider to ensure that her crowdfunding campaign would meet her goal. The factors that were focused on in this analysis were funding goals set for campaigns, launched dates of the campaigns and their correlation with the overall campaign's outcome (successful, failed, or canceled).
+
+## Getting Started
+
+In preparation for this data work, it is best to use Excel 2016 or later. Here are some links to to help with installation:
+
+* [Free 1-month trail option](https://www.microsoft.com/en-us/microsoft-365/excel)
+* [First-time download](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-us&rs=en-us&ad=us)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
