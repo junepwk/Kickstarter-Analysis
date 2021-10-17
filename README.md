@@ -32,6 +32,8 @@ In preparation for this data work, it is best to use Excel 2016 or later. Here a
 * [Free 1-month trail option](https://www.microsoft.com/en-us/microsoft-365/excel)
 * [First-time download](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-us&rs=en-us&ad=us)
 
+After your Excel is all set up, you can download the dataset [here](https://github.com/junepwk/Kickstarter-Analysis/blob/main/data.xlsx).
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Analysis and Challenges
