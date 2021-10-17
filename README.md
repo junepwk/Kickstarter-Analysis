@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
-<details>
-  <summary>Table of Contents</summary>
+
+**Table of Contents**
   <ol>
     <li>
       <a href="#overview-of-project">Overview of Project</a>
@@ -19,7 +19,7 @@
     </li>
     <li><a href="#results">Results</a></li>
   </ol>
-</details>
+
 
 ## Overview of Project
 
