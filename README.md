@@ -23,8 +23,6 @@
 
 ## Overview of Project
 
-### Purpose
-
 The main purpose of this analysis was to help Louise, a playwright, uncover any trends and patterns to a successful Kickstarter campaign. Louise estimated that her play expenses would exceed $10,000 and she would like to know what are some factors to consider to ensure that her crowdfunding campaign would meet her goal. The factors that were focused on in this analysis were funding goals set for campaigns, launched dates of the campaigns and their correlation with the overall campaign's outcome (successful, failed, or canceled).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
