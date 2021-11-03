@@ -81,7 +81,7 @@ month of May.
 
 - Conclusion based on Goals:
 
-Campaigns with goals that are less than or equal to $4,999 have the highest chance of success, which makes sense considering it'll take less money donation to achieve their goal.  In Louise's case, with a budget of over $10,000, based on the Kickstarter dataset, her campaign would have a 54% chance of succeeding and 46% chance of failing. I would suggest a thorough review of her budget itinery to cut out some expenses if she would like a higher chance of her campaign being successful. 
+Campaigns with goals that are less than or equal to $4,999 have the highest chance of success, which makes sense considering it'll take less money donation to achieve their goal.  In Louise's case, with a budget of over $10,000, based on the Kickstarter dataset, her campaign would have a 54% chance of succeeding and 46% chance of failing. I would suggest a thorough review of her budget itinerary to cut out some expenses if she would like a higher chance of her campaign being successful. 
 
 - Limitations of this dataset:
 
